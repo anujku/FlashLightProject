@@ -1,5 +1,6 @@
 FlashLightProject 
 =================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/anujku/FlashLightProject?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Flash light sample application using camera and flashlight capabilities of the mobile.
 
